@@ -5,7 +5,8 @@
       3. 自定义对比损失函数代码
       4. 预训练结束后使用TSNE可视化处理
       5. 预训练结束后训练MLP层进行分类并告知准确率(accuracy)
-———————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+———————————————————————————————————————————
+
 Pretraining and Classifying the MNIST Dataset Using Contrastive Learning
 Funcation:1. Use Keras to build the model
           2. Customize the DataGenerator to generate minibatch sample pictures and labels for training
